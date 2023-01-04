@@ -1,6 +1,6 @@
-## Weather App Cretaed using ReactJS with the help of React hooks along with OpenWeatherMap Weather Api. 
+## This Weather App is Cretaed using ReactJS with the help of React hooks along with OpenWeatherMap Weather API. 
 
-The Ui is quite simple Designed with pure CSS also I have set an image in the Backgroup 
+The UI DESIGN is kept quite simple, designed with pure CSS also I have set an image in the Backgroup 
 ### This is is the start page of the App.
 ![weather1](https://user-images.githubusercontent.com/76623158/210575032-e5c1573b-877e-4776-a7dd-009e05f820d3.jpg)
 
@@ -13,3 +13,6 @@ The Ui is quite simple Designed with pure CSS also I have set an image in the Ba
 ### Thats all this is the complete App
 ![weather4](https://user-images.githubusercontent.com/76623158/210575762-353e964c-116f-46ee-b277-25738ac19527.jpg)
 
+## Tech uses-
+### 1). axios 
+### 1). hooks - useState().
