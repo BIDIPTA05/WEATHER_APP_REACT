@@ -15,4 +15,4 @@ The UI DESIGN is kept quite simple, designed with pure CSS also I have set an im
 
 ## Tech uses-
 ### 1). axios 
-### 1). hooks - useState().
+### 2). hooks - useState().
