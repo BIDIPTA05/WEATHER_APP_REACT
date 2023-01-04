@@ -4,7 +4,7 @@ The UI DESIGN is kept quite simple, designed with pure CSS also I have set an im
 ### This is is the start page of the App.
 ![weather1](https://user-images.githubusercontent.com/76623158/210575032-e5c1573b-877e-4776-a7dd-009e05f820d3.jpg)
 
-### The user can Search for the desired Location in the search box and the report of the Weather along with Wind Speed, Humidity and Cloud Type
+### The user can Search for the desired Location in the search box and the report of the Weather along with Wind Speed, Humidity and Cloud Type will the displayed
 ![weather2](https://user-images.githubusercontent.com/76623158/210575254-1c40d525-6c89-447a-962f-f0731efb3476.jpg)
 
 ### This the is the Data that is fetched from the API
